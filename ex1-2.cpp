@@ -2,5 +2,6 @@
 
 int main (void) {
 	printf("Hello Selena, "); 
-	printf("my height is %d m %d cm \n", 1, 69);
+	printf("my height is %d m %d cm.\n", 1, 69);
+	return 0;
 }
